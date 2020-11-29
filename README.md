@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomoya1031&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) [![Unlimish's github stats](https://github-readme-stats.vercel.app/api?username=tomoya1031&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **tomoya1031/tomoya1031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
